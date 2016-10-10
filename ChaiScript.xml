@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+    <AutoComplete>
+        <!--KEYWORDS-->
+        <KeyWord name="var"/>
+        <KeyWord name="auto"/>
+        <KeyWord name="global"/>
+        <KeyWord name="GLOBAL"/>
+        <KeyWord name="def"/>
+        <KeyWord name="fun"/>
+        <KeyWord name="if"/>
+        <KeyWord name="else"/>
+
+        <KeyWord name="for"/>
+        <KeyWord name="do"/>
+        <KeyWord name="while"/>
+        <KeyWord name="break"/>
+
+        <KeyWord name="try"/>
+        <KeyWord name="catch"/>
+        <KeyWord name="throw"/>
+
+        <KeyWord name="class"/>
+        <KeyWord name="attr"/>
+        <KeyWord name="this"/>
+
+        <KeyWord name="return"/>
+        <KeyWord name="true"/>
+        <KeyWord name="false"/>
+
+        <!--TYPES-->
+        <KeyWord name="int"/>
+        <KeyWord name="float"/>
+        <KeyWord name="unsigned"/>
+        <KeyWord name="long"/>
+        <KeyWord name="double"/>
+        <KeyWord name="string"/>
+        <KeyWord name="Vector"/>
+        <KeyWord name="Map"/>
+        <KeyWord name="int"/>
+        <KeyWord name="int"/>
+
+        <!--BUILT IN FUNCTIONS-->
+        <KeyWord name="print"/>
+        <KeyWord name="to_string"/>
+        <KeyWord name="size"/>
+
+        <KeyWord name="front"/>
+        <KeyWord name="back"/>
+        <KeyWord name="pop_front"/>
+        <KeyWord name="bob_back"/>
+        <KeyWord name="empty"/>
+
+        <KeyWord name="max"/>
+        <KeyWord name="min"/>
+        <KeyWord name="even"/>
+        <KeyWord name="for_each"/>
+        <KeyWord name="puts"/>
+        <KeyWord name="sum"/>
+        <KeyWord name="product"/>
+        <KeyWord name="foldl"/>
+        <KeyWord name="take"/>
+        <KeyWord name="take_while"/>
+        <KeyWord name="drop"/>
+        <KeyWord name="drop_while"/>
+        <KeyWord name="reduce"/>
+        <KeyWord name="filter"/>
+        <KeyWord name="join"/>
+        <KeyWord name="reverse"/>
+        <KeyWord name="generate_range"/>
+        <KeyWord name="concat"/>
+        <KeyWord name="collate"/>
+        <KeyWord name="zip_with"/>
+        <KeyWord name="zip"/>
+        <KeyWord name="call_exists"/>
+        <KeyWord name="retro"/>
+
+        <KeyWord name="bind"/>
+        <KeyWord name="Dynamic_Object"/>
+        <KeyWord name="set_explicit"/>
+        <KeyWord name="method_missing"/>
+        <KeyWord name="print"/>
+        <KeyWord name="dump_system"/>
+        <KeyWord name="print"/>
+
+
+    </AutoComplete>
+</NotepadPlus>
